@@ -1,0 +1,30 @@
+
+ss
+	 {
+
+				______________________RECEIPT___________________
+
+	Product No	 Product Name	 Procuct quantity	 price	 amount	 amount with discount
+
+	1001		  rice				1				 23	 23			 22.54
+	3214		  PEERs				2				 25	 50			 49.5
+
+		 Total Amount :144.08
+ 	 }
+
+
+
+sak
+	 {
+
+				______________________RECEIPT___________________
+
+	Product No	 Product Name	 Procuct quantity	 price	 amount	 amount with discount
+
+	1004		  oil				2				 69			 138			 131.1
+	1011		  frozen				12				 155			 1860			 1581
+
+		 Total Amount :3424.2
+ 	 }
+
+

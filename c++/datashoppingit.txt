@@ -1,0 +1,12 @@
+ 1001 rice 23 2
+ 1002 bread 35 1
+ 1003 pasta 40 10
+ 1004 oil 69 5
+ 1005 sugar 30 2
+ 1006 tumeric 99 20
+ 1007 soup 59 9
+ 1008 cheese 112 0
+ 1009 tide 599 3
+ 1010 cereals 200 1.5
+ 1011 frozen 155 15
+ 3214 PEERs 25 1
